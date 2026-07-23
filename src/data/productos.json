@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Queso Crema 240g",
+    "precio": 12.90,
+    "precioAntiguo": 15.90,
+    "descuento": "-20%",
+    "imagen": "queso"
+  },
+  {
+    "id": 2,
+    "nombre": "Manjar Artesanal 250g",
+    "precio": 10.90,
+    "precioAntiguo": 13.90,
+    "descuento": "-15%",
+    "imagen": "manjar"
+  },
+  {
+    "id": 3,
+    "nombre": "Yogurt de Fresa 1L",
+    "precio": 8.90,
+    "precioAntiguo": 11.90,
+    "descuento": "-10%",
+    "imagen": "yogurt"
+  },
+  {
+    "id": 4,
+    "nombre": "Helado Artesanal 500ml",
+    "precio": 9.90,
+    "precioAntiguo": 12.90,
+    "descuento": "-20%",
+    "imagen": "helado"
+  },
+  {
+    "id": 5,
+    "nombre": "Mantequilla Natural 200g",
+    "precio": 7.90,
+    "precioAntiguo": 10.90,
+    "descuento": "-18%",
+    "imagen": "mantequilla"
+  },
+  {
+    "id": 6,
+    "nombre": "Crema de Leche 250ml",
+    "precio": 6.90,
+    "precioAntiguo": 8.90,
+    "descuento": "-25%",
+    "imagen": "crema"
+  }
+]
