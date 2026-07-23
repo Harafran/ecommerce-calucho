@@ -144,7 +144,7 @@ const Home = ({ setCantidad, cantidadCarrito }) => {
           Directo del productor artesanal a tu mesa de manera sostenible.
         </p>
         <button className="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-semibold py-2 px-4 rounded-md">
-          Explorar Colección
+          EXPLORAR CATÁLOGO DE PRODUCTOS
         </button>
       </section>
 
